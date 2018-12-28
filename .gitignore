@@ -1,0 +1,11 @@
+/Automation/.classpath
+/Automation/.project
+/Automation/target/
+/API/.classpath
+/API/.project
+/API/target/
+*.prefs
+id_rsa
+id_rsa.pub
+~$README.docx
+~$cumentation.docx
